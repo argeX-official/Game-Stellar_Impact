@@ -14,6 +14,6 @@ The full document can be found in the [LICENSE][5] file.
 
 [1]: https://github.com/gnargle
 [2]: https://github.com/gnargle/Stellar_Impact
-[3]: Orijinal-Readme
-[4]: watchX-Hex
+[3]: https://github.com/argeX-official/Game-Stellar_Impact/blob/master/OLD_README.md
+[4]: https://github.com/argeX-official/Game-Stellar_Impact/releases
 [5]: https://github.com/argeX-official/Game-Stellar_Impact/blob/master/License.txt
