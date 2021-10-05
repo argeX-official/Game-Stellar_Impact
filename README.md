@@ -1,20 +1,19 @@
-# Stellar Impact
+## **Stellar Impact**
 
-#What is this?
+This project has been developed by [Athene Allen][1] and forked directly from [original repo][2].
 
-It's a shmup for the Arduboy game system. It's also now finished, feature-complete and bug free.
-* 3 different enemies and a boss
-* Regular shooting and a bomb that stops time for everything but you
-* EEPROM high score saving
-* Mutable sounds and LED flashes 
-* Beautiful procedurally generated starfields
-* Pausing!
+You can read the original README file from [here][3].
 
-#How do I play?
+You can download the .hex file of this project **compiled for watchX** from [Stellar_Impact][4].
 
-Download the zip file, unzip it to a folder named 'Stellar_Impact' in your arduino projects directory, then open the .ino file and flash it to your Arduboy.
-Arrows to move, right button to shoot, left to bomb. All four arrows at once activates the pause.
-On the title screen and pause menu, use the down key to mute and unmute the game.
+## **License**
 
-#This code is a mess!
-I know, I'm sorry. It's also completely uncommented. I'm working on it.
+This project has been released under the MIT License by it's developer.
+
+The full document can be found in the [LICENSE][5] file.
+
+[1]: https://github.com/gnargle
+[2]: https://github.com/gnargle/Stellar_Impact
+[3]: Orijinal-Readme
+[4]: watchX-Hex
+[5]: https://github.com/argeX-official/Game-Stellar_Impact/blob/master/License.txt
